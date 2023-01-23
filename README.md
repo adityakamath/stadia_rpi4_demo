@@ -4,7 +4,7 @@ Simple scripts to print events and input values from a Google Stadia controller,
 
 * ```events.py``` : Prints event data, shows the event codes which will be used in the other two scripts.
 * ```stadia_buttons.py```: Prints information from button type inputs - A, B, X, Y, Options, Menu, Assistant, Capture, Stadia button, L1/R1, and left/right joystick buttons.
-* ```stadia_axes.py```: Prints information from axes type inputs - left/right joysticks, L2/R2 triggers, and D-pad
+* ```stadia_axes.py```: Prints information from axes type inputs - left/right joysticks, L2/R2 triggers, and D-pad.
 
 
 ## Pre-requisites / References
