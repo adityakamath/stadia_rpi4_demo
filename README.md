@@ -11,5 +11,5 @@ Simple scripts to print events and input values from a Google Stadia controller,
 
 * Stadia controller must be switched to Bluetooth mode. Follow the instructions [here](https://stadia.google.com/controller/).
 * Connect the controller to the Raspberry Pi using Bluetooth. There are many tutorials available, I followed the instructions from [here](https://salamwaddah.com/blog/connecting-ps4-controller-to-raspberry-pi-via-bluetooth). The link says PS4, but it also works with the Stadia Controller. The light around the Stadia logo should be solid white indicating a successful connection.
-* Follow the instructions from this [amazing tutorial](https://core-electronics.com.au/guides/using-usb-and-bluetooth-controllers-with-python/), or watch their [YouTube video](https://www.youtube.com/watch?v=F5-dV6ULeg8). It is an old article/video and uses Python 2.7, but using Python 3 works just fine.
+* Follow the instructions from this [amazing tutorial](https://core-electronics.com.au/guides/using-usb-and-bluetooth-controllers-with-python/), or watch their [YouTube video](https://www.youtube.com/watch?v=F5-dV6ULeg8). It is an old article/video and uses Python 2.7, but using Python 3 works just fine. The latest [python-evdev](https://python-evdev.readthedocs.io/en/latest/index.html) tutorials can be found [here](https://python-evdev.readthedocs.io/en/latest/usage.html)
 
